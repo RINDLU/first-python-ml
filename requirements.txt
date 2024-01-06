@@ -1,6 +1,0 @@
-scikit-learn
-tensorflow
-torch
-nltk
-spacy
-# Add other required libraries here
